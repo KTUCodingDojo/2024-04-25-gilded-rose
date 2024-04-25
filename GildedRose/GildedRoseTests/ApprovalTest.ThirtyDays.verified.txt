@@ -21,7 +21,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 14, 21
 Backstage passes to a TAFKAL80ETC concert, 9, 50
 Backstage passes to a TAFKAL80ETC concert, 4, 50
-Conjured Mana Cake, 2, 5
+Conjured Mana Cake, 2, 4
 
 -------- day 2 --------
 name, sellIn, quality
@@ -33,7 +33,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 13, 22
 Backstage passes to a TAFKAL80ETC concert, 8, 50
 Backstage passes to a TAFKAL80ETC concert, 3, 50
-Conjured Mana Cake, 1, 4
+Conjured Mana Cake, 1, 2
 
 -------- day 3 --------
 name, sellIn, quality
@@ -45,7 +45,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 12, 23
 Backstage passes to a TAFKAL80ETC concert, 7, 50
 Backstage passes to a TAFKAL80ETC concert, 2, 50
-Conjured Mana Cake, 0, 3
+Conjured Mana Cake, 0, 0
 
 -------- day 4 --------
 name, sellIn, quality
@@ -57,7 +57,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 11, 24
 Backstage passes to a TAFKAL80ETC concert, 6, 50
 Backstage passes to a TAFKAL80ETC concert, 1, 50
-Conjured Mana Cake, -1, 1
+Conjured Mana Cake, -1, 0
 
 -------- day 5 --------
 name, sellIn, quality
@@ -75,7 +75,7 @@ Conjured Mana Cake, -2, 0
 name, sellIn, quality
 +5 Dexterity Vest, 4, 14
 Aged Brie, -4, 10
-Elixir of the Mongoose, -1, 0
+Elixir of the Mongoose, -1, 1
 Sulfuras, Hand of Ragnaros, 0, 80
 Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 9, 27
@@ -133,7 +133,7 @@ Conjured Mana Cake, -7, 0
 
 -------- day 11 --------
 name, sellIn, quality
-+5 Dexterity Vest, -1, 8
++5 Dexterity Vest, -1, 9
 Aged Brie, -9, 20
 Elixir of the Mongoose, -6, 0
 Sulfuras, Hand of Ragnaros, 0, 80
@@ -145,7 +145,7 @@ Conjured Mana Cake, -8, 0
 
 -------- day 12 --------
 name, sellIn, quality
-+5 Dexterity Vest, -2, 6
++5 Dexterity Vest, -2, 7
 Aged Brie, -10, 22
 Elixir of the Mongoose, -7, 0
 Sulfuras, Hand of Ragnaros, 0, 80
@@ -157,7 +157,7 @@ Conjured Mana Cake, -9, 0
 
 -------- day 13 --------
 name, sellIn, quality
-+5 Dexterity Vest, -3, 4
++5 Dexterity Vest, -3, 5
 Aged Brie, -11, 24
 Elixir of the Mongoose, -8, 0
 Sulfuras, Hand of Ragnaros, 0, 80
@@ -169,7 +169,7 @@ Conjured Mana Cake, -10, 0
 
 -------- day 14 --------
 name, sellIn, quality
-+5 Dexterity Vest, -4, 2
++5 Dexterity Vest, -4, 3
 Aged Brie, -12, 26
 Elixir of the Mongoose, -9, 0
 Sulfuras, Hand of Ragnaros, 0, 80
@@ -181,7 +181,7 @@ Conjured Mana Cake, -11, 0
 
 -------- day 15 --------
 name, sellIn, quality
-+5 Dexterity Vest, -5, 0
++5 Dexterity Vest, -5, 1
 Aged Brie, -13, 28
 Elixir of the Mongoose, -10, 0
 Sulfuras, Hand of Ragnaros, 0, 80

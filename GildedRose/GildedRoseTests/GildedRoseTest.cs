@@ -88,4 +88,5 @@ public class GildedRoseTest
         app.UpdateQuality();
         Assert.That(items[0].Quality, Is.EqualTo(expectedQuality));
     }
+    
 }
